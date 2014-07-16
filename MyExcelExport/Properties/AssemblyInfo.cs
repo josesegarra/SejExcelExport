@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MyExcelExport")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("UN")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("MyExcelExport")]
-[assembly: AssemblyCopyright("Copyright © UN 2014")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

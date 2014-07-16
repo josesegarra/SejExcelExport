@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExcelExport", "MyExcelExport.csproj", "{5419D073-277C-47EE-AEDA-58829432DEDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExcelExport", "MyExcelExport\MyExcelExport.csproj", "{5419D073-277C-47EE-AEDA-58829432DEDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExcelReportSample", "..\MySample\MyExcelReportSample.csproj", "{6A0759D9-FCE9-4D23-AB03-00A3C6E90A97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExcelReportSample", "MySample\MyExcelReportSample.csproj", "{6A0759D9-FCE9-4D23-AB03-00A3C6E90A97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
