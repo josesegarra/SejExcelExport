@@ -1,9 +1,6 @@
-SejExcelExport
-==============
 
-Fast import &amp; export of Excel 2007 files
 
-Just a bunch of C# (.Net 3.5+) classes for REALLY FAST exporting & importing of Excel OoXMl (2007+).
+Just a bunch of C# (.Net 3.5+) classes for REALLY FAST exporting & importing of Excel OoXMl (2007+) files.
 
 The library is totally self-contained, it does not require any other piece software is required (no Excel needed, no ODBC, ACE OLEDB, OpenXML ,....)
 
