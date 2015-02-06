@@ -8,6 +8,8 @@ namespace MySample
     public static class Extensions
     {
 
+        // Simple extensions
+
         public static string Left(this string value, int maxLength)
         {
             if (string.IsNullOrEmpty(value)) return value;
